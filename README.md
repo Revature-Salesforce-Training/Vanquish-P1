@@ -6,7 +6,7 @@
 2. Harini 
 3. Marty Luna II
 4. Mohammed Azad
-5. Taino Dominquez
+5. Taino Dominguez
 
 ### Project Details
 
