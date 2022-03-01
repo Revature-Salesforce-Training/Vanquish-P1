@@ -7,7 +7,8 @@ Automobile dealership site built with tech stack below.
 ### Built With
 
 * [Lightning Web Components](https://developer.salesforce.com/docs/component-library/documentation/en/lwc)
-* [SLDS](https://www.lightningdesignsystem.com/)
+* [Apex](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm)
+* [Salesforce Lightning Design System](https://www.lightningdesignsystem.com/)
 * [Salesforce](https://www.salesforce.com/)
 
 ### Installation
