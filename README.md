@@ -26,6 +26,4 @@ Automobile dealership site
    ```sh
    git clone https://github.com/Revature-Salesforce-Training/Vanquish-P1.git
    ```
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
