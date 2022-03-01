@@ -1,18 +1,31 @@
-# Salesforce DX Project: Next Steps
+# Team Vanquish Project 1
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## Team Members
 
-## How Do You Plan to Deploy Your Changes?
+1. Gabriela Conrado
+2. Harini 
+3. Marty Luna II
+4. Mohammed Azad
+5. Taino Dominquez
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+### Project Details
 
-## Configure Your Salesforce DX Project
+Automobile dealership site 
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+### Built With
 
-## Read All About It
+* [LWC](https://developer.salesforce.com/docs/component-library/documentation/en/lwc)
+* [SLDS](https://www.lightningdesignsystem.com/)
+* [Salesforce](https://www.salesforce.com/)
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Revature-Salesforce-Training/Vanquish-P1.git
+   ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
