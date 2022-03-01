@@ -2,7 +2,7 @@
 
 ### Project Details
 
-Automobile dealership site built with tech stack below.
+Automobile dealership site built with the tech stack below.
 
 ### Built With
 
