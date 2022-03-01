@@ -13,7 +13,7 @@
 Automobile dealership site 
 ### Built With
 
-* [LWC](https://developer.salesforce.com/docs/component-library/documentation/en/lwc)
+* [Lightning Web Components](https://developer.salesforce.com/docs/component-library/documentation/en/lwc)
 * [SLDS](https://www.lightningdesignsystem.com/)
 * [Salesforce](https://www.salesforce.com/)
 
